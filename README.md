@@ -28,6 +28,10 @@ comparison to prior studies.
 Time-series analysis, Sentiment analysis, Deep Learning,
 LSTM, CNN, RNN, VADER, Web Scraping, NLP.
 
+**Working**
+
+<img src="https://github.com/Duttabhi/Time-Series-Analysis-A-Hybrid-Approach/blob/master/flow%20diagram.pdf" width=400>
+
 **Conclusion**
 
 
