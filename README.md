@@ -1,5 +1,7 @@
 # Time-Series-Analysis-A-Hybrid-Approach
 
+**Objective: Combine recent text associated to a share in a particular stock market and combine with financial records to produce a hybrid multivariate data. Further, apply LSTM to predict the next trends from it.**
+
 **Abstract** 
 
 Prediction of stock prices has been the primary objective of
@@ -30,7 +32,7 @@ LSTM, CNN, RNN, VADER, Web Scraping, NLP.
 
 **Working**
 
-<img src="https://github.com/Duttabhi/Time-Series-Analysis-A-Hybrid-Approach/blob/master/flow%20diagram.pdf" width=400>
+<img src="https://github.com/Duttabhi/Time-Series-Analysis-A-Hybrid-Approach/blob/master/flow%20diagram.png" width=500>
 
 **Conclusion**
 
